@@ -3,3 +3,6 @@ def test_first():
 
 def second_test():
     assert 2 == 2
+
+def third_test():
+    assert 2 > 1
