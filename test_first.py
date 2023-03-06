@@ -2,4 +2,4 @@ def test_first():
     assert 3 > 1
 
 def second_test():
-    assert 2 == 2
+    assert 3 == 3
